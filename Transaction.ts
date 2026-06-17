@@ -1,3 +1,1 @@
 console.log("Payment module loaded");
-// A
-console.log("Hello");
